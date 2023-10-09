@@ -1,9 +1,6 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 # Linked metadata of the Science Library and the National Library
 
-
-# Enhancement of Biblioteka Nauki through Linked Metadata with the National Library
-
 The **National Library** of Poland stands as one of the most venerable cultural institutions in the country, with its roots tracing back to the period of 1747-1795 when it operated as the Załuski Library. It was reinvigorated in the year 1928. The library is a formidable repository of books, periodicals, electronic and audiovisual publications issued within the Polish territory as well as foreign publications of Polish origin (polonica). It predominantly serves as a scholarly library with a humanities profile, the principal archive of national literature, a national hub for bibliographic information on books, a scientific institution, and a significant methodological center for libraries across Poland.
 
 ## Biblioteka Nauki: A Reservoir of Scientific Knowledge
