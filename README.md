@@ -24,11 +24,15 @@ The primary objective revolves around bolstering the utility and value of Biblio
 
 4. **Matching Threshold Establishment**:
     - Established a matching threshold of 0.86 ratio to ascertain the level of similarity required for a successful match.
+![obrazek](https://github.com/CHC-Computations/Powiazane-metadane-Biblioteki-Nauki-i-Biblioteki-Narodowej/blob/main/lemma1.png)
+![obrazek](https://github.com/CHC-Computations/Powiazane-metadane-Biblioteki-Nauki-i-Biblioteki-Narodowej/blob/main/lemma2.png)
+
 
 ### Outcome:
 
 - Successfully matched 119,656 bibliographic records, the details of which have been encapsulated in two json files accessible on GitHub.
 - Generated subject headings for Biblioteka Nauki leveraging the data from the National Library, thus enriching the bibliographic metadata and enhancing the searchability within Biblioteka Nauki.
+![obrazek](https://github.com/CHC-Computations/Powiazane-metadane-Biblioteki-Nauki-i-Biblioteki-Narodowej/blob/main/resultsBNBN.png)
 
 The meticulous process of linking metadata between Biblioteka Nauki and the National Library not only augments the richness of bibliographic information but also paves the way for a more streamlined and effective data retrieval, serving the academic and research community at large.
 
