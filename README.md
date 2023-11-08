@@ -31,6 +31,7 @@ The primary objective revolves around bolstering the utility and value of Biblio
 ### Outcome:
 
 - Successfully matched 119,656 bibliographic records, the details of which have been encapsulated in two json files accessible on GitHub.
+- https://bibliotekanauki.pl/articles/{article_id}, 
 - Generated subject headings for Biblioteka Nauki leveraging the data from the National Library, thus enriching the bibliographic metadata and enhancing the searchability within Biblioteka Nauki.
 ![obrazek](https://github.com/CHC-Computations/Powiazane-metadane-Biblioteki-Nauki-i-Biblioteki-Narodowej/blob/main/resultsBNBN.png)
 
